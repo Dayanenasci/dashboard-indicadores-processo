@@ -1,0 +1,6 @@
+id_chamado,prioridade,status,data_abertura,data_fechamento
+1,Alta,Concluido,2024-01-10,2024-01-12
+2,Media,Concluido,2024-01-11,2024-01-15
+3,Alta,Em andamento,2024-01-15,
+4,Baixa,Concluido,2024-01-20,2024-01-25
+5,Media,Em atraso,2024-01-18,2024-01-26
